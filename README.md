@@ -32,3 +32,41 @@
 - GLTF格式文档 https://github.com/KhronosGroup/glTF
 - 带动画的GLTF模型 https://github.com/GPUOpen-LibrariesAndSDKs/Cauldron-Media/tree/v1.0.4/buster_drone
 
+# My implements
+
+下载项目
+
+```
+git clone git@github.com:sayoriaaa/games106.git --recursive
+```
+
+我的环境
+
+- windows 10
+- Visual Studio 2022
+
+
+
+### homework0
+
+(第一课1:05:38 $\approx$ 没有讲)
+
+编译项目
+
+```
+cmake -G "Visual Studio 16 2019" -A x64 -B ./build
+```
+
+打开`./build/games_106.sln`
+
+![1](my_imgs/1.JPG)
+
+点击执行
+
+...编译完之后，打开`./build/bin/Debug`运行`homework0.exe`
+
+![2](my_imgs/2.JPG)
+
+homework0 done!
+
+### homework1

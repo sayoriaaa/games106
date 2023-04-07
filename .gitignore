@@ -234,3 +234,8 @@ data/textures/**
 data/README_asset_pack.md
 data/font*.*
 data/roboto*.*
+
+# My local files
+build
+.idea
+cmake-build-debug
